@@ -1,6 +1,6 @@
 # DisCoder: High-Fidelity Music Vocoder Using Neural Audio Codecs
 
-[Paper]() | [Samples](https://lucala.github.io/discoder/) | [Code](https://github.com/ETH-DISCO/discoder) | [Model](https://huggingface.co/disco-eth/discoder)  
+[Paper](https://arxiv.org/abs/2502.12759) | [Samples](https://lucala.github.io/discoder/) | [Code](https://github.com/ETH-DISCO/discoder) | [Model](https://huggingface.co/disco-eth/discoder)  
 
 DisCoder is a neural vocoder that leverages a generative adversarial encoder-decoder architecture informed by
 a neural audio codec to reconstruct high-fidelity 44.1 kHz audio from mel spectrograms. Our approach first transforms
